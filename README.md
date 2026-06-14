@@ -1,5 +1,7 @@
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+<p align="center">
+  <img src="Pink%20Simple%20Watercolor%20Linkedin%20Banner%20.PNG" width="100%">
+</p>
 
 # Hi, I'm Jahari E. Lockett 👋
 
