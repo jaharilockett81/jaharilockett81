@@ -65,8 +65,7 @@ Pricing options and visualizing Greeks using real market data and quantitative f
 
 ## Connect With Me
 
-💼 LinkedIn: [Your LinkedIn]
-
+💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jahari%20Lockett-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jahari-e-lockett-b4aa04246)
 🐙 GitHub: @jaharilockett81
 <!--
 **jaharilockett81/jaharilockett81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
